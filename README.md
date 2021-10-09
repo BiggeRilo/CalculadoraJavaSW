@@ -1,2 +1,2 @@
 # CalculadoraJavaSW
-Calculadora Feita em Java com interface Grafíca
+Calculadora feita em Java com interface grafíca utilizando Swing
